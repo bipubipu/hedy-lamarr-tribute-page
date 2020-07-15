@@ -1,0 +1,42 @@
+body {
+    background: #e6ccb3;
+    font-family: sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+#img-div {
+    background: #f2e6d9;
+    padding: 2px;
+}
+
+#image {
+    max-width: 90%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img-caption {
+    font-style: italic;
+    margin-top: 5px;
+}
+
+#tribute-info {
+    width: 95%;
+    margin: 0 auto;
+}
+
+ul {
+    text-align: left;
+    margin: 0 50px;
+}
+
+blockquote {
+    font-style: italic;
+    max-width: 90%;
+    text-align: left;
+    margin: 50px;
+}
